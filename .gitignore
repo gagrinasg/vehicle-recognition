@@ -1,6 +1,7 @@
 .vscode
 .ipynb_checkpoints/
-duth-cv-2019-2020-hw-4/
+vehicles/
 small_last4.h5
 output.csv
 kaggle.json
+duth-cv-2019-2020-hw-4.zip
